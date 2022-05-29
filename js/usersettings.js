@@ -1,16 +1,3 @@
-// import { S3 } from "@aws-sdk/client-s3"
-// import {} AWS from 'aws-sdk'
-// AWS = require('aws-sdk');
-//
-// const s3 = new AWS.S3({
-//     accessKeyId: 'AKIAZLSCHF3ANJ46FH6H',
-//     secretAccessKey: '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'
-// })
-//
-// console.log(s3)
-
-
-
 const create = document.getElementById('create-gif')
 
 const gifName = 'Котик'
